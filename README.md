@@ -4,16 +4,16 @@ Aplikasi web pengelolaan kamar kost modern untuk mendaftarkan klaster kamar seje
 
 ## Informasi Proyek & Tautan
 
-- **Nama Proyek**: Ngekost — Tambah Kamar Massal (Monorepo Web App)
-- **Repositori GitHub**: [https://github.com/ANGGARA2616/vibecode-prd-only](https://github.com/ANGGARA2616/vibecode-prd-only)
+- **Nama Proyek**: Ngekost — Tambah Kamar Massal & Duplikat Kamar (Monorepo Web App)
+- **Repositori GitHub**: [https://github.com/ANGGARA2616/vibecode-prd-ux-skill](https://github.com/ANGGARA2616/vibecode-prd-ux-skill)
 - **Tautan Deployment Publik Aktif**: [https://shot-paperback-pens-week.trycloudflare.com](https://shot-paperback-pens-week.trycloudflare.com)
 - **Konfigurasi Vercel (Production)**:
-  - Repository: `ANGGARA2616/vibecode-prd-only`
+  - Repository: `ANGGARA2616/vibecode-prd-ux-skill`
   - Root Directory: `apps/web`
   - Framework Preset: `Next.js`
   - Build Command: `next build` (atau `npm run build`)
-  - Target URL Vercel: `https://vibecode-prd-only.vercel.app` (dapat langsung di-*import* 1-klik di dasbor Vercel tanpa konfigurasi tambahan)
-- **Teknologi**: Next.js 14+ (App Router), TypeScript, Tailwind CSS, LocalStorage Data Persistence
+  - Target URL Vercel: `https://vibecode-prd-ux-skill.vercel.app` (dapat di-*import* langsung 1-klik di dasbor Vercel)
+- **Teknologi & Standar Desain**: Next.js 14+ (App Router), TypeScript, Tailwind CSS, LocalStorage Data Persistence, UX Skill Integration (`/skills/ux-design`)
 
 ---
 
@@ -27,8 +27,8 @@ Aplikasi web pengelolaan kamar kost modern untuk mendaftarkan klaster kamar seje
 
 1. **Kloning Repositori**:
    ```bash
-   git clone https://github.com/ANGGARA2616/vibecode-prd-only.git
-   cd vibecode-prd-only
+   git clone https://github.com/ANGGARA2616/vibecode-prd-ux-skill.git
+   cd vibecode-prd-ux-skill
    ```
 
 2. **Instalasi Dependensi Monorepo**:
