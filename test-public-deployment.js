@@ -1,7 +1,7 @@
 const { chromium } = require('playwright-core');
 
 async function verifyPublicUrl() {
-  const publicUrl = 'https://shot-paperback-pens-week.trycloudflare.com';
+  const publicUrl = 'https://dont-okay-mia-wisdom.trycloudflare.com';
   console.log(`\n=== Verifying Live Public URL: ${publicUrl} ===\n`);
 
   const browser = await chromium.launch({

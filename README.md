@@ -6,7 +6,7 @@ Aplikasi web pengelolaan kamar kost modern untuk mendaftarkan klaster kamar seje
 
 - **Nama Proyek**: Ngekost — Tambah Kamar Massal & Duplikat Kamar (Monorepo Web App)
 - **Repositori GitHub**: [https://github.com/ANGGARA2616/vibecode-prd-ux-skill](https://github.com/ANGGARA2616/vibecode-prd-ux-skill)
-- **Tautan Deployment Publik Aktif**: [https://shot-paperback-pens-week.trycloudflare.com](https://shot-paperback-pens-week.trycloudflare.com)
+- **Tautan Deployment Publik Aktif**: [https://dont-okay-mia-wisdom.trycloudflare.com](https://dont-okay-mia-wisdom.trycloudflare.com)
 - **Konfigurasi Vercel (Production)**:
   - Repository: `ANGGARA2616/vibecode-prd-ux-skill`
   - Root Directory: `apps/web`
